@@ -12,3 +12,10 @@ Development Team
 Student Name:
 Course:
 Section:
+
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
